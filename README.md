@@ -1,0 +1,1 @@
+The notebook is based on the paper [Denoising Diffusion models](https://arxiv.org/abs/2006.11239). This notebook consists of three parts: an explanation of how the code models the paper, two implementations of the denoising diffusion model, and a short commentary.
